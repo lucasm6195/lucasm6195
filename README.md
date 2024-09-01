@@ -1,20 +1,22 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
-<h2 style="display: inline-block; border-right: 0.15em solid; white-space: nowrap; margin: 0 auto; letter-spacing: 0.15em; animation: typing 3.5s steps(30, end), blink-caret 0.75s step-end infinite;">
+<h2 style="display: inline-block; border-right: 0.15em solid; white-space: nowrap; overflow: hidden; letter-spacing: 0.15em; animation: typing 3.5s steps(30, end), blink-caret 0.75s step-end infinite;">
   Hey there! I'm Lucas
 </h2>
 
+<!-- Embeber estilos usando SVG dentro de un comentario HTML -->
+<!--
 <style>
 @keyframes typing {
   from { width: 0 }
   to { width: 100% }
 }
-
 @keyframes blink-caret {
   from, to { border-color: transparent }
   50% { border-color: black }
 }
 </style>
+-->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
