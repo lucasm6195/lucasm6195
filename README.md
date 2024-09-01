@@ -22,9 +22,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/mano6195">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mano6195&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mano6195&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/lucasm6195">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucasm6195&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucasm6195&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
