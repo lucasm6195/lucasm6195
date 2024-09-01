@@ -1,6 +1,7 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Lucas</h2>
-
-![image](https://github.com/user-attachments/assets/16d06887-9832-44ec-9f5b-ec48698e80be)
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+<h2>
+  <img src="https://your-image-host.com/animated-typing.gif" alt="Hey there! I'm Lucas" />
+</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -9,7 +10,6 @@
 ✍️ &nbsp;In my free time, I program in Lua and HTML, adapting them to FiveM.\
 💬 &nbsp;Feel free to contact me for any inquiries, either through Discord or my email.\
 ✉️ &nbsp;You can send me an email at lucasmacia2007@gmail.com. I will try to respond as soon as possible!\
-
 
 ### 🛠 &nbsp;Tech Stack
 
