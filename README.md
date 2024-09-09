@@ -48,7 +48,7 @@
 <p align="center">
 <a href="mailto:lucasmacia2007@gmail.com"><img src="https://img.shields.io/badge/-lucasmacia2007@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://discord.gg/duD2bqaXq3"><img src="https://img.shields.io/badge/-Discord%20Server-7289DA?style=flat&logo=Discord&logoColor=white"/></a>
-<a href="https://discord.com/users/mano.6195"><img src="https://img.shields.io/badge/-mano.6195-7289DA?style=flat&logo=Discord&logoColor=white"/></a>
+<a href="https://discord.com/users/lucasm.6195"><img src="https://img.shields.io/badge/-mano.6195-7289DA?style=flat&logo=Discord&logoColor=white"/></a>
 </p>
 
 -----
