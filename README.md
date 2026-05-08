@@ -24,7 +24,7 @@
 📚 &nbsp;I am currently learning HTML and a bit of PHP.\
 ✍️ &nbsp;In my free time, I program in Lua and HTML, adapting them to FiveM.\
 💬 &nbsp;Feel free to contact me for any inquiries, either through Discord or my email.\
-✉️ &nbsp;You can send me an email at lucasmacia2007@gmail.com. I will try to respond as soon as possible!\
+✉️ &nbsp;You can send me an email at contact@maciadigital.com. I will try to respond as soon as possible!\
 
 ### 🛠 &nbsp;Tech Stack
 
